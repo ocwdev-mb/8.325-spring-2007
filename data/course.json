@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "legacy_uid": "36201c82-eee9-2b1a-93ac-0d9238f19dc1",
+  "instructors": {
+    "content": [
+      "dbdcb54d-58af-6ac7-ed89-73086fa9e82f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b6369397-51c1-970e-4463-2eda4ed33ca1",
+    "website": "8-325-relativistic-quantum-field-theory-iii-spring-2007"
+  },
+  "course_title": "Relativistic Quantum Field Theory III",
+  "course_description": "This course is the third and last term of the quantum field theory sequence. Its aim is the proper theoretical discussion of the physics of the standard model. Topics include: quantum chromodynamics; the Higgs phenomenon and a description of the standard model; deep-inelastic scattering and structure functions; basics of lattice gauge theory; operator products and effective theories; detailed structure of the standard model; spontaneously broken gauge theory and its quantization; instantons and theta-vacua; topological defects; introduction to supersymmetry.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.325",
+  "course_image_thumbnail": {
+    "content": "f59929da-5c96-ff72-c6f5-846b8e8a24db",
+    "website": "8-325-relativistic-quantum-field-theory-iii-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "48cef83a-d295-4054-8e82-faf35ec28e37",
+  "site_short_id": "8.325-spring-2007",
+  "title": "Course Metadata"
+}
